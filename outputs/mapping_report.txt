@@ -1,0 +1,15 @@
+PEMETAAN LABEL (sumber | label asli -> label seragam | jumlah)
+ecuador_rocole | healthy -> healthy | 791
+ecuador_rocole | rust_level_1 -> rust | 344
+ecuador_rocole | red_spider_mite -> other | 167
+ecuador_rocole | rust_level_2 -> rust | 166
+ecuador_rocole | rust_level_3 -> rust | 62
+ecuador_rocole | rust_level_4 -> rust | 30
+kenya_jmuben | Leaf rust -> rust | 8336
+kenya_jmuben | Cerscospora -> other | 7681
+kenya_jmuben | Phoma -> other | 6571
+kenya_jmuben2 | Healthy -> healthy | 18984
+kenya_jmuben2 | Miner -> other | 16978
+peru | Ojo_Gallo_other -> other | 500
+peru | Roya_rust -> rust | 500
+peru | Sanas_healthy -> healthy | 499

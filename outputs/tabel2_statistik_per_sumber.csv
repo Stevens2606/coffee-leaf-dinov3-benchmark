@@ -1,0 +1,5 @@
+source,total,healthy,rust,other,unknown,rusak,citra_duplikat,median_lebar,median_tinggi,median_kecerahan,median_ketajaman
+ecuador_rocole,1560,791,602,167,0,0,80,2048.0,1152.0,116.4,609.2
+kenya_jmuben,22588,0,8336,14252,0,0,21851,128.0,128.0,145.5,186.8
+kenya_jmuben2,35962,18984,0,16978,0,1,35627,128.0,128.0,125.0,328.2
+peru,1499,499,500,500,0,1,331,3056.0,3056.0,191.8,186.1

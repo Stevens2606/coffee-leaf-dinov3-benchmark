@@ -1,0 +1,11 @@
+domain,source,label,jumlah,median_lebar,median_tinggi,median_ukuran_berkas_kb,median_kecerahan,median_ketajaman
+ecuador,ecuador_rocole,healthy,791,2048.0,1152.0,545.9,116.4,657.7
+ecuador,ecuador_rocole,other,167,2048.0,1152.0,647.7,116.0,647.7
+ecuador,ecuador_rocole,rust,602,2048.0,1152.0,552.4,116.7,535.5
+kenya,kenya_jmuben,other,14252,128.0,128.0,32.1,133.8,408.2
+kenya,kenya_jmuben,rust,8336,128.0,128.0,8.8,160.9,18.7
+kenya,kenya_jmuben2,healthy,18983,128.0,128.0,27.1,175.4,47.0
+kenya,kenya_jmuben2,other,16978,128.0,128.0,32.4,118.5,406.7
+peru,peru,healthy,499,3056.0,3056.0,2163.5,195.7,176.3
+peru,peru,other,500,3056.0,3056.0,2089.5,190.4,231.2
+peru,peru,rust,499,3056.0,3056.0,2188.9,184.5,172.3
